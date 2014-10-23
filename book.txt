@@ -1,2 +1,0 @@
-A book on Rails
-is a long one
